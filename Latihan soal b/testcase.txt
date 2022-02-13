@@ -1,0 +1,31 @@
+5
+Manchester United F.C.
+Inggris (Old Trafford, Manchester Raya)
+1878
+Christiano Ronaldo
+Ralf Rangnick
+Old Trafford
+Chelsea F.C.
+Inggris (Fullham, London)
+1905
+Romelu Lukaku
+Thomas Tuchel
+Stamford Bridge
+Liverpool F.C.
+Inggris (Liverpool)
+1892
+Mohamed Salah
+Jürgen Klopp
+Anfield
+Arsenal F.C.
+Inggris (Holloway, London)
+1886
+Bukayo Saka
+Mikel Arteta
+Stadion Emirates
+Manchester City F.C.
+Inggris (Manchester)
+1880
+Jack Grealish
+Pep Guardiola
+Stadion Etihad
